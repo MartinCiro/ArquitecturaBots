@@ -2,7 +2,7 @@
 
 > ## Necesidad
 >
-> Definir la arquitectura inicial de los proyectos de automatización realizadas con Python, estableciendo así los driver a utilizar y distribución de carpetas definida dentro del proyecto.
+> Definir la arquitectura inicial de los proyectos de automatización realizadas con Python, estableciendo así los driver a utilizar y distribución de carpetas definida dentro del proyecto por medio de la arquitectura modular.
 >
 > ## Solución
 >
